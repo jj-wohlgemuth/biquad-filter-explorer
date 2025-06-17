@@ -2,4 +2,3 @@ dash
 plotly
 numpy
 scipy
-gunicorn
